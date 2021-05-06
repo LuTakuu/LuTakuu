@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @LuTakuu
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning in a HTL in Austria
+- 🌱 I’m currently learning at a HTL in Austria
